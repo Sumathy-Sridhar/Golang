@@ -1,0 +1,11 @@
+File reading is one of the most common operations performed in any programming language. 
+In this tutorial, we will learn about how files can be read using Go.
+
+This tutorial has the following sections.
+
+Reading an entire file into memory
+Using an absolute file path
+Passing the file path as a command line flag
+Bundling the file inside the binary
+Reading a file in small chunks
+Reading a file line by line
