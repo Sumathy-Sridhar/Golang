@@ -1,3 +1,5 @@
+//https://exercism.org/tracks/go/exercises/blackjack
+
 package main
 
 func ParseCard(card string) int {
